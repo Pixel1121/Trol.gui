@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixel1121/Trol.gui/main/TrollGui.lua"))()
